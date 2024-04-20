@@ -1,4 +1,7 @@
 # Program Description: Multi-Threading
+# By Akul Vaishnavi
+# Class: 3CO18
+# Roll No: 102103487
 
 The Python program demonstrates the impact of using multiple threads on the time taken to perform matrix multiplication. It also measures CPU utilization during the matrix multiplication process.
 
