@@ -32,7 +32,11 @@ The Python program demonstrates the impact of using multiple threads on the time
             duration: Duration of time to measure CPU utilization.
         Returns: List of CPU utilization values over the specified duration.
 
+The table corresponding to the time taken with respect to number of threads is as follows:
+
+<img width="224" alt="Time Taken Table" src="https://github.com/akulvaishnavi/Assignment_Multi_Threading_102103487/blob/main/Time_Taken_Table.png">
+
 # Graphs:
 
-<img width="586" alt="Graph Thread vs Time Taken" src="https://github.com/akulvaishnavi/Assignment_Multi_Threading_102103487/blob/main/CPU.png">
-<img width="586" alt="Graph Thread vs Time Taken" src="https://github.com/akulvaishnavi/Assignment_Multi_Threading_102103487/blob/main/Time Taken_vs_No of Threads.png">
+<img width="586" alt="CPU" src="https://github.com/akulvaishnavi/Assignment_Multi_Threading_102103487/blob/main/CPU.png">
+<img width="586" alt="Time Taken vs No. of Threads" src="https://github.com/akulvaishnavi/Assignment_Multi_Threading_102103487/blob/main/Time Taken_vs_No of Threads.png">
